@@ -95,3 +95,5 @@ gtags.files
 eln-cache/
 meghanada/
 vimish-fold/
+/org-caldav-backup.org
+/org-caldav-be5a6c8.el
